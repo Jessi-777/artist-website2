@@ -87,7 +87,7 @@ background: linear-gradient(135deg, #e2b9d1, #ae473c);  */
   font-family: "Merriweather", serif;
 }
   /* background-color: transparent; */
-/* .btn {
+.btn {
   padding: 0.75rem 1.5rem;
   outline: none;
   border: none;
@@ -110,7 +110,7 @@ background: linear-gradient(135deg, #e2b9d1, #ae473c);  */
   background: #cfc596;
   background: linear-gradient(135deg, #9b6e9e, #9a68ac);
   background-color: transparent;
-} */
+}
 
 img {
   display: flex;
@@ -344,14 +344,14 @@ font-family: "Roboto Condensed", sans-serif;
   background-color: #a6a9ab;
 background: rgba(255, 255, 255, 0.19);
 border-radius: 16px;
-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+box-shadow: 0 4px 30px rgba(212, 82, 82, 0.1);
 backdrop-filter: blur(5.7px);
 -webkit-backdrop-filter: blur(5.7px);
 border: 1px solid rgba(255, 255, 255, 0.21);
 }
 
 .service__card:hover {
-  background-color: var(--extra-light);
+  background-color: rgb(153, 147, 166);
 }
 .service__card img {
   border-radius: 15px;
@@ -487,7 +487,7 @@ border: 1px solid rgba(255, 255, 255, 0.21);
   font-size: 0.9rem;
   font-weight: 500;
   color: var(--text-light);
-  color: rgb(227, 184, 96);
+  color: rgb(90, 55, 94);
 }
 
 .client-swiper-btns {
