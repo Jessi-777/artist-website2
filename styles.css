@@ -185,7 +185,7 @@ font-family: "Roboto Condensed", sans-serif;
 
 .nav__menu__btn {
   font-size: 1.5rem;
-  color:  #c0b5cb;
+  color:  #1a191b;
   cursor: pointer;
 
 }
@@ -198,7 +198,7 @@ font-family: "Roboto Condensed", sans-serif;
   padding: 2rem;
   background-color:  #e4d9e3;
   transition: all 0.6s;
-  /* background-color: transparent; */
+  background-color: transparent;
   list-style: none;
   display: flex;
   overflow: hidden;
