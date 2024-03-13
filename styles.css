@@ -86,31 +86,31 @@ background: linear-gradient(135deg, #e2b9d1, #ae473c);  */
   color: rgb(121, 121, 131);
   font-family: "Merriweather", serif;
 }
-
-.btn {
+  /* background-color: transparent; */
+/* .btn {
   padding: 0.75rem 1.5rem;
   outline: none;
   border: none;
   font-size: 0.9rem;
   font-family: var(--header-font);
   letter-spacing: 1px;
+  margin: 53px;
   color: var(--white);
+  display: flex;
   white-space: nowrap;
-  /* background-color: var(--primary-color); */
   border-radius: 5px;
   background: #cdbfcd;
   background: linear-gradient(135deg, #805b79, #a3449c);
   transition: 0.3s;
   cursor: pointer;
-  /* background-color: transparent; */
 }
 
 .btn:hover {
-  /* background-color: var(--primary-color-light); */
+ 
   background: #cfc596;
   background: linear-gradient(135deg, #9b6e9e, #9a68ac);
   background-color: transparent;
-}
+} */
 
 img {
   display: flex;
