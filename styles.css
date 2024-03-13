@@ -334,6 +334,7 @@ font-family: "Roboto Condensed", sans-serif;
   gap: 1.5rem;
   max-width: 380px;
   margin: 0px auto 0px auto;
+  /* color: white; */
   text-align: center;
   position: relative;
   margin-bottom: 20px;
@@ -376,7 +377,8 @@ border: 1px solid rgba(255, 255, 255, 0.21);
 
 .service__content p {
   margin-bottom: 1rem;
-  color: var(--text-light);
+  color: white;
+
 }
 
 .service__card__footer {
